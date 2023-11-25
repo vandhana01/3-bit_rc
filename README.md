@@ -13,7 +13,7 @@ Refer to [README](docs/source/index.rst) for this sample project documentation.
 
 Refer to the following [readthedocs](https://caravel-sim-infrastructure.readthedocs.io/en/latest/index.html) for how to add cocotb tests to your project. 
 
-
+- Cloning and setup
 
 ![image](https://github.com/vandhana01/3-bit_rc/assets/142392052/b4eefb73-9c74-4e53-87ee-a38be241838c)
 
@@ -21,7 +21,15 @@ Refer to the following [readthedocs](https://caravel-sim-infrastructure.readthed
 
 ![image](https://github.com/vandhana01/3-bit_rc/assets/142392052/628a7119-afdb-409c-9dbe-cd31e263f8cf)
 
-![image](https://github.com/vandhana01/3-bit_rc/assets/142392052/89915dd3-d4e0-4456-b3f7-d3f412870f8d)
+- ssh key generation
+
+![image](https://github.com/vandhana01/3-bit_rc/assets/142392052/d298a443-ae08-4939-9078-ceedee5a852f)
+
+- create a project on the Efabless platform, and then upload your design. 
+  
+![image](https://github.com/vandhana01/3-bit_rc/assets/142392052/6cb9d88d-0f57-46fe-b3c1-edba3d4d1794)
+
+![image](https://github.com/vandhana01/3-bit_rc/assets/142392052/9c37d769-0983-48e1-ae18-6abf339785bc)
 
 - files added
 - Tapeout SUCCESSFUL !!!!
