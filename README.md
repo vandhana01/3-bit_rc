@@ -12,3 +12,16 @@ Refer to [README](docs/source/index.rst#section-quickstart) for a quickstart of 
 Refer to [README](docs/source/index.rst) for this sample project documentation. 
 
 Refer to the following [readthedocs](https://caravel-sim-infrastructure.readthedocs.io/en/latest/index.html) for how to add cocotb tests to your project. 
+
+
+
+![image](https://github.com/vandhana01/3-bit_rc/assets/142392052/b4eefb73-9c74-4e53-87ee-a38be241838c)
+
+![image](https://github.com/vandhana01/3-bit_rc/assets/142392052/0dfcc2e7-f841-413b-839c-a7b57b84017b)
+
+![image](https://github.com/vandhana01/3-bit_rc/assets/142392052/628a7119-afdb-409c-9dbe-cd31e263f8cf)
+
+![image](https://github.com/vandhana01/3-bit_rc/assets/142392052/89915dd3-d4e0-4456-b3f7-d3f412870f8d)
+
+- files added
+- Tapeout SUCCESSFUL !!!!
