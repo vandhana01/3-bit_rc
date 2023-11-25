@@ -1,0 +1,14 @@
+{
+    "DESIGN_NAME": "pes_3bit_rc",
+    "VERILOG_FILES": "dir::src/pes_3bit_rc.v",
+    "CLOCK_PORT": "clk",
+    "CLOCK_PERIOD": 12.0,
+    "SYNTH_MAX_FANOUT": 14,
+    "FP_SIZING": "absolute",
+    "DIE_AREA": "0 0 500 500",
+    "SYNTH_AUTONAME": 1,
+    "FP_PDN_VPITCH": 25,
+    "FP_PDN_HPITCH": 25,
+    "FP_PDN_VOFFSET": 5,
+    "FP_PDN_HOFFSET": 5
+}
